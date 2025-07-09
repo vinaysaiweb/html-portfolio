@@ -1,0 +1,12 @@
+<html>
+    <h1> it my birthday !</h1>
+    <h2> it on june 7</h2>
+    <img src="V:\image for project\photo-1606983340126-99ab4feaa64a.jpg"  width="500" height="600">
+    <h3>what to bring</h3>
+    <ul>
+        <li> sum money for birthday</li>
+        <li>sum chocolate</li>
+    </ul>
+    <h2> where should you come and the place address</h2>
+    <a href="https://www.google.com/maps/place/P524%2BCX6,+Vuda+Phase+1,+Kurmannapalem,+Visakhapatnam,+Andhra+Pradesh+530046/@17.7010413,83.1566672,197m/data=!3m1!1e3!4m6!3m5!1s0x3a396f2e5655686d:0x7194b60030f6b0b2!8m2!3d17.7010413!4d83.1573205!16s%2Fg%2F11f4mb2j2h?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"> this the location of my home</a>
+</html>
